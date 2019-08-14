@@ -1,0 +1,16 @@
+[23-Nov-2018 11:38:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php on line 17
+[23-Nov-2018 11:40:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php on line 17
+[29-Nov-2018 06:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php on line 17
+[29-Nov-2018 06:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/medibout/thesuccesstoday/wp-content/themes/successplot-child/index.php on line 17
